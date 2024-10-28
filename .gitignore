@@ -1,0 +1,15 @@
+echo ".vs/
+*.ipch
+*.obj
+*.pdb
+*.exe
+*.idb
+*.log
+*.ipdb
+*.iobj
+*.ilk
+*.user
+*.tlog
+*.lastbuildstate
+*.sdf
+*.opensdf" > .gitignore
